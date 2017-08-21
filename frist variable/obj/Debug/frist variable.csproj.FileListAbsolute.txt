@@ -1,0 +1,7 @@
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\bin\Debug\frist variable.exe.config
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\bin\Debug\frist variable.exe
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\bin\Debug\frist variable.pdb
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\obj\Debug\frist variable.csprojResolveAssemblyReference.cache
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\obj\Debug\frist variable.csproj.CoreCompileInputs.cache
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\obj\Debug\frist variable.exe
+C:\Users\AL-Asreya\Desktop\visual studio\frist variable\frist variable\obj\Debug\frist variable.pdb
